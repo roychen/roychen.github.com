@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Roy Studio]]></title>
+  <link href="http://roychen.github.com/atom.xml" rel="self"/>
+  <link href="http://roychen.github.com/"/>
+  <updated>2012-02-05T14:38:47+08:00</updated>
+  <id>http://roychen.github.com/</id>
+  <author>
+    <name><![CDATA[Roy Chen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
